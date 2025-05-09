@@ -26,8 +26,7 @@ I currently have 2 PCs at home serving as local servers.
 		<figcaption>Game2 Screenshot</figcaption>
 	</figure>
 	<figure style="text-align: center;">
-		<video controls height="150"><source src="Videos/combat.mp4" type="video/mp4">Your browser does not support the video tag.</video>
-		<figcaption>Gameplay Video</figcaption>
+		[Gameplay Video](Videos/combat.mp4)
 	</figure>
 </div>
 
@@ -45,8 +44,7 @@ I currently have 2 PCs at home serving as local servers.
 	</figure>
 	<figure style="text-align: center;">
 		<video controls height="150"><source src="Videos/mmotest.mp4" type="video/mp4">Your browser does not support the video tag.</video>
-		<figcaption>Server Stress Test Video</figcaption>
-	</figure>
+		[Server Stress Test Video](Videos/mmotest.mp4)
 </div>
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
@@ -57,8 +55,7 @@ I currently have 2 PCs at home serving as local servers.
 	<figure style="text-align: center;">
 		<video controls height="150"><source src="Videos/test.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 		<figcaption>Travel Path Test</figcaption>
-	</figure>
-</div>
+		[Travel Path Test](Videos/test.mp4)
 
 ---
 
@@ -66,8 +63,8 @@ I currently have 2 PCs at home serving as local servers.
 <video controls height="150"><source src="Videos/engine1.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 <video controls height="150"><source src="Videos/engine2.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
----
-
+[Engine Video 1](Videos/engine1.mp4)  
+[Engine Video 2](Videos/engine2.mp4)
 ### GLSL Raytracing/Pathtracing [LINK](https://github.com/tadedav/lovr-rtx)
 Created using GLSL, run using LÖVR
 
@@ -94,15 +91,15 @@ This was a game idea I gave up on because I started working on something cooler 
 <video controls height="150"><source src="Videos/space.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 <video controls height="150"><source src="Videos/boat.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
----
-
+[Space Video](Videos/space.mp4)  
+[Boat Video](Videos/boat.mp4)
 ### Zombie Test
 This project was unique as it was built without a game engine or framework. Features include buildings, sound zones, and line-of-sight mechanics.
 
 <video controls height="150"><source src="Videos/zombie.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
 ---
-
+[Zombie Video](Videos/zombie.mp4)
 ### random VR project
 Created using LÖVR
 - Hand Tracking: real-world length estimations using hand tracking.
@@ -111,8 +108,8 @@ Created using LÖVR
 <video controls height="200"><source src="Videos/vr.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 <video controls height="200"><source src="Videos/tiktok.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
----
-
+[VR Video](Videos/vr.mp4)  
+[TikTok Video](Videos/tiktok.mp4)
 ### Raw Collisions + Catmull-Rom Splines
 Created in both .NET and LuaJIT.
 
@@ -146,7 +143,8 @@ Created using the Love2D Framework
 <video controls height="150"><source src="Videos/submarine.mp4" type="video/mp4">Your browser does not support the video tag.</video><video controls height="150"><source src="Videos/xbox.mov" type="video/mp4">Your browser does not support the video tag.</video>
 <img src="Images/cave1.png" height="150">
 <img src="Images/cave2.png" height="150">
-
+[Submarine Video](Videos/submarine.mp4)  
+[Xbox Video](Videos/xbox.mov)
 ---
 
 ### Experimenting with Particles [LINK](https://github.com/tadedav/lovr2d-particle-test)
@@ -156,12 +154,12 @@ Created using the Love2D Framework
 <img src="Images/spray.png" height="150">
 <video controls height="150"><source src="Videos/smoke.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 <video controls height="150"><source src="Videos/bum.mp4" type="video/mp4">Your browser does not support the video tag.</video>
-
-Another similar project I lost files For
+[Smoke Video](Videos/smoke.mp4)  
+[Bum Video](Videos/bum.mp4)
 
 <video controls height="150"><source src="Videos/particles.mp4" type="video/mp4">Your browser does not support the video tag.</video>
 
----
+[Particles Video](Videos/particles.mp4)
 ### Other Projects Not Listed Here
 - For now, there's just one on my GitHub that I haven't included here.
 - The rest of my projects are either private, not very interesting, or incomplete.
