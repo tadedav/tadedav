@@ -1,5 +1,5 @@
 > ## ⚠️ *Disclaimer!* ⚠️
-> ### *If you're looking for some .Net/C# code (especially the way I code), the only public projects available are [TamarinDB](https://github.com/tadedav/TamarinDB), [TamarinDashboard](https://github.com/tadedav/TamarinDashboard) and [My First WPF Desktop App](#my-first-wpf-desktop-app). The reason is that .NET, for me, is more production-oriented, and I can't share much. ([TamarinDB](https://github.com/tadedav/TamarinDB) + [TamarinDashboard](https://github.com/tadedav/TamarinDashboard)) are the only public projects I'm currently working on (just a little), without any comments or polish because they were rushed.*
+> ### *If you're looking for some .Net/C# code (especially the way I code), the only public projects available are [TamarinDB](https://github.com/tadedav/TamarinDB), [TamarinDashboard](https://github.com/tadedav/TamarinDashboard) and [My First WPF Desktop App](#my-first-wpf-desktop-app). The reason is that .NET, for me, is more production-oriented, and I can't share much. ([TamarinDB](https://github.com/tadedav/TamarinDB) + [TamarinDashboard](https://github.com/tadedav/TamarinDashboard)) are the only <u>public</u> projects I'm currently working on (just a little), without any comments or polish because they were rushed.*
 
 ## About Me
 I love backend development, especially with .NET and Luvit. I also enjoy exploring graphics engines and want to learn more about like C++ and Vulkan. AI and Virtual reality excites me too.
@@ -49,7 +49,7 @@ Created using GLSL, run using LÖVR
 ---
 
 ### My First WPF Desktop App
-⚠️ **Warning:** This project was my first WPF application, created before 2019. At the time, I found it pretty exciting. It includes a login system, several small apps, and games I quickly put together to learn. The screenshots were taken on a Mac using Wine. *I have no idea where the source code is now.*
+⚠️ **Warning:** This project was my first WPF application, <u>created before 2019</u>. At the time, I found it pretty exciting. It includes a login system, several small apps, and games I quickly put together to learn. The screenshots were taken on a Mac using Wine. *I have no idea where the source code is now.*
 - Included a calculator
 - Featured stopwatches
 - Had a pseudo "cookie clicker" game called Coin Master
