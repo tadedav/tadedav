@@ -26,7 +26,7 @@ I currently have 2 PCs at home serving as local servers.
 		<figcaption>Game2 Screenshot</figcaption>
 	</figure>
 	<figure style="text-align: center;">
-		<video controls height="150"><source src="https://github.com/user-attachments/assets/c6bc4a16-0597-4068-8868-50c4e6dea8ab" type="video/mp4">Your browser does not support the video tag.</video>
+		[Gameplay Video](https://github.com/user-attachments/assets/c6bc4a16-0597-4068-8868-50c4e6dea8ab)
 		<figcaption>Gameplay Video</figcaption>
 	</figure>
 </div>
@@ -44,7 +44,7 @@ I currently have 2 PCs at home serving as local servers.
 		<figcaption>Server Stress Test (~500 Clients)</figcaption>
 	</figure>
 	<figure style="text-align: center;">
-		<video controls height="150"><source src="https://github.com/user-attachments/assets/fe332b60-bcca-4263-a153-6bdf14c79ba6" type="video/mp4">Your browser does not support the video tag.</video>
+		[Server Stress Test Video](https://github.com/user-attachments/assets/fe332b60-bcca-4263-a153-6bdf14c79ba6)
 		<figcaption>Server Stress Test Video</figcaption>
 	</figure>
 </div>
@@ -55,7 +55,7 @@ I currently have 2 PCs at home serving as local servers.
 		<figcaption>Tile Editor</figcaption>
 	</figure>
 	<figure style="text-align: center;">
-		<video controls height="150"><source src="https://github.com/user-attachments/assets/e0239a6e-4199-4ba3-8cf1-6ceb16186124" type="video/mp4">Your browser does not support the video tag.</video>
+		[Travel Path Test](https://github.com/user-attachments/assets/e0239a6e-4199-4ba3-8cf1-6ceb16186124)
 		<figcaption>Travel Path Test</figcaption>
 	</figure>
 </div>
@@ -63,8 +63,8 @@ I currently have 2 PCs at home serving as local servers.
 ---
 
 ### My own 2D engine with Box2D
-<video controls height="150"><source src="https://github.com/user-attachments/assets/bbffc437-9a40-41dc-b4b0-fa0266dee689" type="video/mp4">Your browser does not support the video tag.</video>
-<video controls height="150"><source src="https://github.com/user-attachments/assets/51a91abf-c4e0-4ecd-bfbc-fdf8fbcd9dd2" type="video/mp4">Your browser does not support the video tag.</video>
+[Video 1](https://github.com/user-attachments/assets/bbffc437-9a40-41dc-b4b0-fa0266dee689)  
+[Video 2](https://github.com/user-attachments/assets/51a91abf-c4e0-4ecd-bfbc-fdf8fbcd9dd2)
 
 ---
 
@@ -91,15 +91,15 @@ Created using GLSL, run using LÖVR
 ### Cosmic Gliders
 This was a game idea I gave up on because I started working on something cooler ([Online MMORPG](#MMORPG)). It was a multiplayer game with an authoritative server written in LuaJIT, client was made in Unity.
 
-<video controls height="150"><source src="https://github.com/user-attachments/assets/0a878df7-727e-413b-8482-1e0f53e574d7" type="video/mp4">Your browser does not support the video tag.</video>
-<video controls height="150"><source src="https://github.com/user-attachments/assets/6de9d8e5-8505-42dd-b525-1e908e1238f2" type="video/mp4">Your browser does not support the video tag.</video>
+[Video 1](https://github.com/user-attachments/assets/0a878df7-727e-413b-8482-1e0f53e574d7)  
+[Video 2](https://github.com/user-attachments/assets/6de9d8e5-8505-42dd-b525-1e908e1238f2)
 
 ---
 
 ### Zombie Test
 This project was unique as it was built without a game engine or framework. Features include buildings, sound zones, and line-of-sight mechanics.
 
-<video controls height="150"><source src="https://github.com/user-attachments/assets/894bdb77-1aa0-4df3-9b67-d11001085317" type="video/mp4">Your browser does not support the video tag.</video>
+[Zombie Test Video](https://github.com/user-attachments/assets/894bdb77-1aa0-4df3-9b67-d11001085317)
 
 ---
 
@@ -108,17 +108,17 @@ Created using LÖVR
 - Hand Tracking: real-world length estimations using hand tracking.
 - Air Drawing (TikTok): A **cringe** video of drawing in the air using a hand skeleton.
 
-<video controls height="200"><source src="https://github.com/user-attachments/assets/4582120e-2355-4a0a-aad6-1fa842fc13eb" type="video/mp4">Your browser does not support the video tag.</video>
-<video controls height="200"><source src="https://github.com/user-attachments/assets/44349593-a6eb-4ac9-a74e-26d8c510ef64" type="video/mp4">Your browser does not support the video tag.</video>
+[Video 1](https://github.com/user-attachments/assets/4582120e-2355-4a0a-aad6-1fa842fc13eb)  
+[Video 2](https://github.com/user-attachments/assets/44349593-a6eb-4ac9-a74e-26d8c510ef64)
 
 ---
 
 ### Raw Collisions + Catmull-Rom Splines
 Created in both .NET and LuaJIT.
 
-<video controls height="150"><source src="https://github.com/user-attachments/assets/6ed6db68-14e4-4676-a4db-0a067a52a515" type="video/mp4">Your browser does not support the video tag.</video>
-<img src="Images/path.png" height="150">
-<video controls height="150"><source src="https://github.com/user-attachments/assets/390fa6eb-2dc5-46dc-aa99-200b16c1c5af" type="video/mp4">Your browser does not support the video tag.</video>
+[Video 1](https://github.com/user-attachments/assets/6ed6db68-14e4-4676-a4db-0a067a52a515)  
+<img src="Images/path.png" height="150">  
+[Video 2](https://github.com/user-attachments/assets/390fa6eb-2dc5-46dc-aa99-200b16c1c5af)
 
 ---
 
@@ -129,8 +129,8 @@ Created in both .NET and LuaJIT.
 - Had a pseudo "cookie clicker" game called Coin Master
 - Included a simple AI chasing game
 
-<img src="Images/myapp1.png" height="150">
-<img src="Images/myapp2.png" height="150">
+<img src="Images/myapp1.png" height="150">  
+<img src="Images/myapp2.png" height="150">  
 <img src="Images/myapp3.png" height="150">
 
 ---
@@ -142,9 +142,10 @@ Created using the Love2D Framework
 - Stones form interconnected caves
 - Deeper levels have more stones, increasing difficulty
 
-<img src="Images/submarine0.png" height="150">
-<video controls height="150"><source src="https://github.com/user-attachments/assets/4048e104-4f48-4bfc-9c1f-3d7d44833530" type="video/mp4">Your browser does not support the video tag.</video><video controls height="150"><source src="https://github.com/user-attachments/assets/8597708e-85f0-48f6-9241-54792330720e" type="video/mp4">Your browser does not support the video tag.</video>
-<img src="Images/cave1.png" height="150">
+<img src="Images/submarine0.png" height="150">  
+[Video 1](https://github.com/user-attachments/assets/4048e104-4f48-4bfc-9c1f-3d7d44833530)  
+[Video 2](https://github.com/user-attachments/assets/8597708e-85f0-48f6-9241-54792330720e)  
+<img src="Images/cave1.png" height="150">  
 <img src="Images/cave2.png" height="150">
 
 ---
@@ -153,15 +154,15 @@ Created using the Love2D Framework
 This isn't a full particle system, just a simple test project.
 Created using the Love2D Framework
 
-<img src="Images/spray.png" height="150">
-<video controls height="150"><source src="https://github.com/user-attachments/assets/e277ed55-dba9-47ba-a667-b774bae14cc7" type="video/mp4">Your browser does not support the video tag.</video>
-<video controls height="150"><source src="https://github.com/user-attachments/assets/c7add2f7-222f-4b8b-9c01-dddb43f2c2c6" type="video/mp4">Your browser does not support the video tag.</video>
+<img src="Images/spray.png" height="150">  
+[Video 1](https://github.com/user-attachments/assets/e277ed55-dba9-47ba-a667-b774bae14cc7)  
+[Video 2](https://github.com/user-attachments/assets/c7add2f7-222f-4b8b-9c01-dddb43f2c2c6)
 
-Another similar project I lost files For
-
-<video controls height="150"><source src="https://github.com/user-attachments/assets/197a2163-3183-4f57-81c7-5f3b3d46c51f" type="video/mp4">Your browser does not support the video tag.</video>
+Another similar project I lost files for:  
+[Video](https://github.com/user-attachments/assets/197a2163-3183-4f57-81c7-5f3b3d46c51f)
 
 ---
+
 ### Other Projects Not Listed Here
 - For now, there's just one on my GitHub that I haven't included here.
 - The rest of my projects are either private, not very interesting, or incomplete.
