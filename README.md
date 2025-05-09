@@ -56,9 +56,7 @@ Created using GLSL, run using LÖVR
 - Included a simple AI chasing game
 
 ![myapp1](Images/myapp1.png)
-
 ![myapp2](Images/myapp2.png)
-
 ![myapp3](Images/myapp3.png)
 
 ---
@@ -79,7 +77,7 @@ This was a game idea I gave up on because I started working on something cooler 
 
 [Video 1](https://github.com/user-attachments/assets/0a878df7-727e-413b-8482-1e0f53e574d7)
 
-[Video 2](https://github.com/user-attachments/assets/265d6c6b-b28b-4987-b7e4-c3edcd898752))
+[Video 2](https://github.com/user-attachments/assets/265d6c6b-b28b-4987-b7e4-c3edcd898752)
 
 ---
 
