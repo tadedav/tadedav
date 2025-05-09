@@ -16,49 +16,16 @@ I currently have 2 PCs at home serving as local servers.
 - **Server:** Multiple versions across .NET and in the past LuaJIT
 - **Client:** Unity, Developer Client .NET + Raylib
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-	<figure style="text-align: center;">
-		<img src="Images/game.png" height="150">
-		<figcaption>Game1 Screenshot</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		<img src="Images/mmo.png" height="150">
-		<figcaption>Game2 Screenshot</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		[Gameplay Video](https://github.com/user-attachments/assets/c6bc4a16-0597-4068-8868-50c4e6dea8ab)
-		<figcaption>Gameplay Video</figcaption>
-	</figure>
-</div>
+![game](Images/game.png)
+![mmo](Images/mmo.png)
+[Gameplay Video](https://github.com/user-attachments/assets/c6bc4a16-0597-4068-8868-50c4e6dea8ab)
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-	<figure style="text-align: center;">
-		<img src="Images/image.png" height="150">
-		<figcaption>Developer Client</figcaption>
-	</figure>
-</div>
+![image](Images/image.png)
+![mmotest](Images/mmotest.png)
+[Server Stress Test Video](https://github.com/user-attachments/assets/fe332b60-bcca-4263-a153-6bdf14c79ba6)
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-	<figure style="text-align: center;">
-		<img src="Images/mmotest.png" height="150">
-		<figcaption>Server Stress Test (~500 Clients)</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		[Server Stress Test Video](https://github.com/user-attachments/assets/fe332b60-bcca-4263-a153-6bdf14c79ba6)
-		<figcaption>Server Stress Test Video</figcaption>
-	</figure>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-	<figure style="text-align: center;">
-		<img src="Images/tiles.png" height="150">
-		<figcaption>Tile Editor</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		[Travel Path Test](https://github.com/user-attachments/assets/e0239a6e-4199-4ba3-8cf1-6ceb16186124)
-		<figcaption>Travel Path Test</figcaption>
-	</figure>
-</div>
+![tiles](Images/tiles.png)
+[Travel Path Test](https://github.com/user-attachments/assets/e0239a6e-4199-4ba3-8cf1-6ceb16186124)
 
 ---
 
@@ -71,20 +38,9 @@ I currently have 2 PCs at home serving as local servers.
 ### GLSL Raytracing/Pathtracing [LINK](https://github.com/tadedav/lovr-rtx)
 Created using GLSL, run using LÖVR
 
-<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
-	<figure style="text-align: center;">
-		<img src="Images/rtxon.png" height="100">
-		<figcaption>RTX On</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		<img src="Images/rtxoff.png" height="100">
-		<figcaption>RTX Off</figcaption>
-	</figure>
-	<figure style="text-align: center;">
-		<img src="Images/rtxhalf.png" height="100">
-		<figcaption>RTX Half</figcaption>
-	</figure>
-</div>
+![rtxon](Images/rtxon.png)
+![rtxoff](Images/rtxoff.png)
+![rtxhalf](Images/rtxhalf.png)
 
 ---
 
@@ -92,7 +48,7 @@ Created using GLSL, run using LÖVR
 This was a game idea I gave up on because I started working on something cooler ([Online MMORPG](#MMORPG)). It was a multiplayer game with an authoritative server written in LuaJIT, client was made in Unity.
 
 [Video 1](https://github.com/user-attachments/assets/0a878df7-727e-413b-8482-1e0f53e574d7)  
-[Video 2](https://github.com/user-attachments/assets/6de9d8e5-8505-42dd-b525-1e908e1238f2)
+[Video 2](https://github.com/user-attachments/assets/6de9d8e5-8505-42dd-b525-1e0e1238f2)
 
 ---
 
@@ -117,7 +73,7 @@ Created using LÖVR
 Created in both .NET and LuaJIT.
 
 [Video 1](https://github.com/user-attachments/assets/6ed6db68-14e4-4676-a4db-0a067a52a515)  
-<img src="Images/path.png" height="150">  
+![path](Images/path.png)  
 [Video 2](https://github.com/user-attachments/assets/390fa6eb-2dc5-46dc-aa99-200b16c1c5af)
 
 ---
@@ -129,9 +85,9 @@ Created in both .NET and LuaJIT.
 - Had a pseudo "cookie clicker" game called Coin Master
 - Included a simple AI chasing game
 
-<img src="Images/myapp1.png" height="150">  
-<img src="Images/myapp2.png" height="150">  
-<img src="Images/myapp3.png" height="150">
+![myapp1](Images/myapp1.png)  
+![myapp2](Images/myapp2.png)  
+![myapp3](Images/myapp3.png)
 
 ---
 
@@ -142,11 +98,11 @@ Created using the Love2D Framework
 - Stones form interconnected caves
 - Deeper levels have more stones, increasing difficulty
 
-<img src="Images/submarine0.png" height="150">  
+![submarine0](Images/submarine0.png)  
 [Video 1](https://github.com/user-attachments/assets/4048e104-4f48-4bfc-9c1f-3d7d44833530)  
 [Video 2](https://github.com/user-attachments/assets/8597708e-85f0-48f6-9241-54792330720e)  
-<img src="Images/cave1.png" height="150">  
-<img src="Images/cave2.png" height="150">
+![cave1](Images/cave1.png)  
+![cave2](Images/cave2.png)
 
 ---
 
@@ -154,7 +110,7 @@ Created using the Love2D Framework
 This isn't a full particle system, just a simple test project.
 Created using the Love2D Framework
 
-<img src="Images/spray.png" height="150">  
+![spray](Images/spray.png)  
 [Video 1](https://github.com/user-attachments/assets/e277ed55-dba9-47ba-a667-b774bae14cc7)  
 [Video 2](https://github.com/user-attachments/assets/c7add2f7-222f-4b8b-9c01-dddb43f2c2c6)
 
