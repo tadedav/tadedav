@@ -15,6 +15,7 @@ I currently have 2 PCs at home serving as local servers.
 ### MMORPG
 - **Server:** Multiple versions across .NET and in the past LuaJIT
 - **Client:** Unity, Developer Client .NET + Raylib
+Including image and video from stress test
 
 ![game](Images/game.png)
 ![mmo](Images/mmo.png)
@@ -28,16 +29,6 @@ I currently have 2 PCs at home serving as local servers.
 
 ![tiles](Images/tiles.png)
 
-[Travel Path Test](https://github.com/user-attachments/assets/e0239a6e-4199-4ba3-8cf1-6ceb16186124)
-
----
-
-### My own 2D engine with Box2D
-
-[Video 1](https://github.com/user-attachments/assets/bbffc437-9a40-41dc-b4b0-fa0266dee689)
-
-[Video 2](https://github.com/user-attachments/assets/51a91abf-c4e0-4ecd-bfbc-fdf8fbcd9dd2)
-
 ---
 
 ### GLSL Raytracing/Pathtracing [LINK](https://github.com/tadedav/lovr-rtx)
@@ -49,41 +40,11 @@ Created using GLSL, run using LÖVR
 
 ---
 
-### Cosmic Gliders
-This was a game idea I gave up on because I started working on something cooler ([Online MMORPG](#MMORPG)). It was a multiplayer game with an authoritative server written in LuaJIT, client was made in Unity.
+### My own 2D engine with Box2D
 
-[Video 1](https://github.com/user-attachments/assets/0a878df7-727e-413b-8482-1e0f53e574d7)
+[Video 1](https://github.com/user-attachments/assets/bbffc437-9a40-41dc-b4b0-fa0266dee689)
 
-[Video 2](https://github.com/user-attachments/assets/6de9d8e5-8505-42dd-b525-1e0e1238f2)
-
----
-
-### Zombie Test
-This project was unique as it was built without a game engine or framework. Features include buildings, sound zones, and line-of-sight mechanics.
-
-[Zombie Test Video](https://github.com/user-attachments/assets/894bdb77-1aa0-4df3-9b67-d11001085317)
-
----
-
-### random VR project
-Created using LÖVR
-- Hand Tracking: real-world length estimations using hand tracking.
-- Air Drawing (TikTok): A **cringe** video of drawing in the air using a hand skeleton.
-
-[Video 1](https://github.com/user-attachments/assets/4582120e-2355-4a0a-aad6-1fa842fc13eb)
-
-[Video 2](https://github.com/user-attachments/assets/44349593-a6eb-4ac9-a74e-26d8c510ef64)
-
----
-
-### Raw Collisions + Catmull-Rom Splines
-Created in both .NET and LuaJIT.
-
-[Video 1](https://github.com/user-attachments/assets/6ed6db68-14e4-4676-a4db-0a067a52a515)
-
-![path](Images/path.png)
-
-[Video 2](https://github.com/user-attachments/assets/390fa6eb-2dc5-46dc-aa99-200b16c1c5af)
+[Video 2](https://github.com/user-attachments/assets/51a91abf-c4e0-4ecd-bfbc-fdf8fbcd9dd2)
 
 ---
 
@@ -102,6 +63,26 @@ Created in both .NET and LuaJIT.
 
 ---
 
+### random VR project
+Created using LÖVR
+- Hand Tracking: real-world length estimations using hand tracking.
+- Air Drawing (TikTok): A **cringe** video of drawing in the air using a hand skeleton.
+
+[Video 1](https://github.com/user-attachments/assets/4582120e-2355-4a0a-aad6-1fa842fc13eb)
+
+[Video 2](https://github.com/user-attachments/assets/44349593-a6eb-4ac9-a74e-26d8c510ef64)
+
+---
+
+### Cosmic Gliders
+This was a game idea I gave up on because I started working on something cooler ([Online MMORPG](#MMORPG)). It was a multiplayer game with an authoritative server written in LuaJIT, client was made in Unity.
+
+[Video 1](https://github.com/user-attachments/assets/0a878df7-727e-413b-8482-1e0f53e574d7)
+
+[Video 2](https://github.com/user-attachments/assets/6de9d8e5-8505-42dd-b525-1e0e1238f2)
+
+---
+
 ### Submarine Test (On my PC named oceangate :D)
 Created using the Love2D Framework
 - Played with an Xbox controller for a natural experience
@@ -117,6 +98,24 @@ Created using the Love2D Framework
 
 ![cave1](Images/cave1.png)
 ![cave2](Images/cave2.png)
+
+---
+
+### Zombie Test
+This project was unique as it was built without a game engine or framework. Features include buildings, sound zones, and line-of-sight mechanics.
+
+[Zombie Test Video](https://github.com/user-attachments/assets/894bdb77-1aa0-4df3-9b67-d11001085317)
+
+---
+
+### Raw Collisions + Catmull-Rom Splines
+Created in both .NET and LuaJIT.
+
+[Video 1](https://github.com/user-attachments/assets/6ed6db68-14e4-4676-a4db-0a067a52a515)
+
+![path](Images/path.png)
+
+[Video 2](https://github.com/user-attachments/assets/390fa6eb-2dc5-46dc-aa99-200b16c1c5af)
 
 ---
 
