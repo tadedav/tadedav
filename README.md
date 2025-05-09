@@ -79,7 +79,7 @@ This was a game idea I gave up on because I started working on something cooler 
 
 [Video 1](https://github.com/user-attachments/assets/0a878df7-727e-413b-8482-1e0f53e574d7)
 
-[Video 2](https://github.com/user-attachments/assets/6de9d8e5-8505-42dd-b525-1e0e1238f2)
+[Video 2](https://github.com/user-attachments/assets/265d6c6b-b28b-4987-b7e4-c3edcd898752))
 
 ---
 
