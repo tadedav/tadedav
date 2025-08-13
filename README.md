@@ -1,6 +1,9 @@
 > ## ⚠️ *Disclaimer!* ⚠️
 > ### *If you're looking for some .Net/C# code (especially the way I code), the only public projects available are [TamarinDB](https://github.com/tadedav/TamarinDB), [TamarinDashboard](https://github.com/tadedav/TamarinDashboard) and [My First WPF Desktop App](#my-first-wpf-desktop-app). The reason is that .NET, for me, is more production-oriented, and I can't share much. ([TamarinDB](https://github.com/tadedav/TamarinDB) + [TamarinDashboard](https://github.com/tadedav/TamarinDashboard)) are the only <u>public</u> projects I'm currently working on (just a little), without any comments or polish because they were rushed. <u>For now, only visible .NET code can be viewed here: [TamarinDB Source Code](https://github.com/tadedav/TamarinDB/tree/main/src/TamarinDB).</u>*
 
+---
+
+# ⚠️🛠️ PROJECTS ABOVE ARE HIDDEN DUE TO PRODUCTION DEPLOYMENT. PROFILE IS OUTDATED AND NOT YET REVISED. 🛠️⚠️
 
 ## About Me
 I love backend development, especially with .NET and Luvit. I also enjoy exploring graphics engines and want to learn more about like C++ with Vulkan. AI and Virtual reality excites me too.
