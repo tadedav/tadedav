@@ -1,15 +1,63 @@
-> ## ⚠️ *Disclaimer!* ⚠️
-> ### *If you're looking for some .Net/C# code (especially the way I code), the only public projects available are [TamarinDB](https://github.com/tadedav/TamarinDB), [TamarinDashboard](https://github.com/tadedav/TamarinDashboard) and [My First WPF Desktop App](#my-first-wpf-desktop-app). The reason is that .NET, for me, is more production-oriented, and I can't share much. ([TamarinDB](https://github.com/tadedav/TamarinDB) + [TamarinDashboard](https://github.com/tadedav/TamarinDashboard)) are the only <u>public</u> projects I'm currently working on (just a little), without any comments or polish because they were rushed. <u>For now, only visible .NET code can be viewed here: [TamarinDB Source Code](https://github.com/tadedav/TamarinDB/tree/main/src/TamarinDB).</u>*
+> [!NOTE]
+> *If you're looking for some .Net/C# code (especially the way I code), the only public projects available are [TamarinDB](https://github.com/tadedav/TamarinDB), [TamarinDashboard](https://github.com/tadedav/TamarinDashboard) and [My First WPF Desktop App](#my-first-wpf-desktop-app). The reason is that .NET, for me, is more production-oriented, and I can't share much. ([TamarinDB](https://github.com/tadedav/TamarinDB) + [TamarinDashboard](https://github.com/tadedav/TamarinDashboard)) are the only <u>public</u> projects I'm currently working on (just a little), without any comments or polish because they were rushed. <u>For now, only visible .NET code can be viewed here: [TamarinDB Source Code](https://github.com/tadedav/TamarinDB/tree/main/src/TamarinDB).</u>*
 
----
-
-# ⚠️🛠️ PROJECTS ABOVE ARE HIDDEN DUE TO PRODUCTION DEPLOYMENT. PROFILE IS OUTDATED AND NOT YET REVISED. 🛠️⚠️
+> [!WARNING]
+> #### PROJECTS ABOVE ARE HIDDEN DUE TO PRODUCTION DEPLOYMENT. PROFILE IS OUTDATED AND NOT YET REVISED.
 
 ## About Me
-I love backend development, especially with .NET and Luvit. I also enjoy exploring graphics engines and want to learn more about like C++ with Vulkan. AI and Virtual reality excites me too.
-
+I love backend development and I hate Python!
 I mainly use a MacBook with VS Code but also work with Linux servers and AWS for cloud projects.
 I currently have 2 PCs at home serving as local servers, alongside a Windows Server setup for cloud gaming.
+
+### I Code With
+
+<div align="left">
+  <img src="https://img.shields.io/badge/C Sharp-239120?logo=csharp&logoColor=white&style=for-the-badge" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GNU Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="30" alt="lua logo"  />
+</div>
+
+### I Work with
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NuGet-004880?logo=nuget&logoColor=white&style=for-the-badge" height="30" alt="nuget logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/DigitalOcean-0080FF?logo=digitalocean&logoColor=white&style=for-the-badge" height="30" alt="digitalocean logo"  />
+</div>
+
+### On Platforms
+
+<div align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" height="30" alt="windows8 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="30" alt="apple logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black&style=for-the-badge" height="30" alt="android logo"  />
+</div>
+
+---
 
 ## Project Showcase
 >### Here are some old projects I found while going through my files. Most of them are about graphics because showing server-side stuff is harder. The code is rough and not polished, but I thought they might be fun to share (some of them on Github).
