@@ -59,8 +59,8 @@ I currently have 2 PCs at home serving as local servers, alongside a Windows Ser
 
 ---
 
-> [!NOTE] Project Showcase
-> ### Here are some old projects I found while going through my files. Most of them are about graphics because showing server-side stuff is harder. The code is rough and not polished, but I thought they might be fun to share (some of them on Github).
+> [!NOTE]
+> ### Here *below* are some old projects I found while going through my files. Most of them are about graphics because showing server-side stuff is harder. *The code is rough and not polished*, but I thought they might be *fun to share* (some of them on Github).
 
 ---
 
