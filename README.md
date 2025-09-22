@@ -5,7 +5,7 @@
 > #### PROJECTS ABOVE ARE HIDDEN DUE TO PRODUCTION DEPLOYMENT. PROFILE IS OUTDATED AND NOT YET REVISED.
 
 ## About Me
-I love backend development and I hate Python!
+I love backend development with .Net and I hate Python!
 I mainly use a MacBook with VS Code but also work with Linux servers and AWS for cloud projects.
 I currently have 2 PCs at home serving as local servers, alongside a Windows Server setup for cloud gaming.
 
