@@ -1,13 +1,10 @@
-> [!NOTE]
-> *If you're looking for some .Net/C# code (especially the way I code), the only public projects available are ~[TamarinDB](https://github.com/tadedav/TamarinDB)~ and ~[TamarinDashboard](https://github.com/tadedav/TamarinDashboard)~. The reason is that .NET, for me, is more production-oriented, and I can't share much.<u>For now, only visible .NET code can be viewed here: ~[TamarinDB Source Code](https://github.com/tadedav/TamarinDB/tree/main/src/TamarinDB)~.</u>*
-
-> [!WARNING]
-> #### PROJECTS ABOVE ARE HIDDEN DUE TO PRODUCTION DEPLOYMENT. PROFILE IS OUTDATED AND NOT YET REVISED.
-
 ## About Me
-I love backend development with .Net and I hate Python!
+I enjoy backend development in .NET and building graphics projects from scratch.
 I mainly use a MacBook with VS Code but also work with Linux servers and AWS for cloud projects.
-I currently have 2 PCs at home serving as local servers, alongside a Windows Server setup for cloud gaming.
+
+> [!IMPORTANT]
+> **My lastest project<br>
+> https://tesaks.itch.io/astro-pets**
 
 ### I Code With
 
