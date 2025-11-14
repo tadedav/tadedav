@@ -1,10 +1,10 @@
 ## About Me
-I enjoy backend development in .NET and building graphics projects from scratch.
+I enjoy backend development in .Net and building graphics projects from scratch.<br>
 I mainly use a MacBook with VS Code but also work with Linux servers and AWS for cloud projects.
+<br>
 
-> [!IMPORTANT]
-> **My lastest project<br>
-> https://tesaks.itch.io/astro-pets**
+~ My lastest project here ~<br>
+https://tesaks.itch.io/astro-pets
 
 ### I Code With
 
