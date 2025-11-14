@@ -69,8 +69,6 @@ Including image and video from stress test
 ![game](Images/game.png)
 ![mmo](Images/mmo.png)
 
-[Gameplay Video](https://github.com/user-attachments/assets/c6bc4a16-0597-4068-8868-50c4e6dea8ab)
-
 ![image](Images/image.png)
 ![mmotest](Images/mmotest.png)
 
