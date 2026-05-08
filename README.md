@@ -3,6 +3,9 @@ I enjoy backend development in .Net and building graphics projects from scratch.
 I mainly use a MacBook with VS Code but also work with Linux servers and AWS for cloud projects.
 <br>
 
+~ My Website ^^ ~<br>
+https://tadedav.com
+
 ~ My lastest project here ~<br>
 https://tesaks.itch.io/astro-pets
 
